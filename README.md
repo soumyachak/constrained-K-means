@@ -1,2 +1,1 @@
-# constraint-K-means
- 
+# constrained K-means
